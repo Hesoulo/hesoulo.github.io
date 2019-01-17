@@ -1,0 +1,54 @@
+body, html, .startup {
+  height: 100%;
+}
+
+body{
+  background-color: black;
+  }
+
+header.startup{
+  height: 100%;
+}
+
+.container {
+  border-radius:30%;
+  border: 3px solid black;
+  box-shadow: 04px 9px 77px 31px #ff7754; 
+  margin-top: 20px;
+  background-color: white;
+  background-image: url("http://media.rhizome.org/blog/3241/ourgoods.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 900px, 900px;
+}
+
+
+.name {
+  margin-top: 20px;
+  text-shadow: 2px 2px 4px black;
+}
+
+h1 {
+  color: #17a2b8;
+  font-family: 'VT323', monospace;
+  font-weight: bold;
+}
+
+.quote {
+  font-family: 'VT323', monospace;
+  color: #ff7754;
+  margin-top: 10px;
+  margin-bottom: 500px;
+  text-decoration: underline;
+  font-size: 30px;
+}
+
+hr {
+  max-width:100px;
+  border-color: #ff7754;
+  border-width: 3px;
+}
+
+.btn-info {
+margin-bottom: 20px;
+}
